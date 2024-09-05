@@ -1,0 +1,11 @@
+venvのactivateコード
+python3 -m venv .venv
+
+#アクティベート(立ち上げる時)
+source .venv/bin/activate
+
+ディアクティベート
+deactivate
+
+二重でディアクティベート
+source deactivate 

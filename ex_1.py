@@ -1,0 +1,7 @@
+print("Hello,World!")
+print("Python", "is", "awesome", sep="-")
+print(2 + 3)
+print("1", "2", "3", sep=",")
+print("10", "+", "20", "=", "30")
+print("Hello", end="\n")
+print("world", end="")
